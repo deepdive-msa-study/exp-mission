@@ -17,4 +17,5 @@
 
 1. 상위 브랜치로 머지 시 무조건 PR
 2. 각 PR은 squah and merge를 통해 dev의 로그를 깔끔하게 관리
-3. force push는 최대한 지양
+3. force push는 금지
+4. 머지 할때는 2인 이상의 Approve 필수
